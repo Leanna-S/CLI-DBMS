@@ -1,0 +1,18 @@
+TableName:Books
+Id:999
+Description:This is an imported book
+Title:First imported book
+
+TableName:Books
+Id:998
+Description:This is another imported book
+Title:Second imported book
+
+TableName:Authors
+Id:66
+Name:John Doe
+DateOfBirth:09/11/2001
+
+TableName:BookAuthors
+BookId:999
+AuthorId:66
